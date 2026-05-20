@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="-455" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1454.35" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-81" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="59XTsty1G1Yx93DkZX_j-101" value="">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-81" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-101" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1515" y="470" as="targetPoint" />
           </mxGeometry>
