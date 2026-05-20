@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="2753" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3412" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,7 +760,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Power Strip" vertex="1">
           <mxGeometry height="60" width="120" x="1495" y="85" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-226" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;" target="59XTsty1G1Yx93DkZX_j-222" value="">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-226" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="59XTsty1G1Yx93DkZX_j-222" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-227" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;" target="59XTsty1G1Yx93DkZX_j-221">
@@ -771,7 +771,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-228" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#3333FF;" target="59XTsty1G1Yx93DkZX_j-111">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-228" edge="1" parent="1" source="0vSBfI8_46AL9H7hPHAw-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#3333FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="59XTsty1G1Yx93DkZX_j-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-229" connectable="0" parent="59XTsty1G1Yx93DkZX_j-228" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TETHER (DATA)" vertex="1">
@@ -779,8 +779,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-9" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0vSBfI8_46AL9H7hPHAw-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-13" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=0;" target="59XTsty1G1Yx93DkZX_j-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="280" />
+              <mxPoint x="1180" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="Laptop Surface Station" vertex="1">
           <mxGeometry height="60" width="120" x="1185" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-10" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-221" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;curved=0;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="0vSBfI8_46AL9H7hPHAw-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1265" y="350" />
+              <mxPoint x="1090" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-221" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Wireless Router" vertex="1">
           <mxGeometry height="30" width="80" x="1245" y="300" as="geometry" />
@@ -863,6 +882,22 @@
         </mxCell>
         <mxCell id="0vSBfI8_46AL9H7hPHAw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Spinner Tool Servo" vertex="1">
           <mxGeometry height="30" width="80" x="1215" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-11" edge="1" parent="1" source="0vSBfI8_46AL9H7hPHAw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="59XTsty1G1Yx93DkZX_j-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="360" />
+              <mxPoint x="1305" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-12" connectable="0" parent="0vSBfI8_46AL9H7hPHAw-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Internal 5V Step Down" vertex="1">
+          <mxGeometry relative="1" x="-0.0547" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="Fathom-X Tether Interface" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
