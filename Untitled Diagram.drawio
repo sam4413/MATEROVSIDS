@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="862" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-71" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1454.35" y="240" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-81" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-101" value="">
@@ -71,7 +71,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-206" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-101" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="&lt;div&gt;Fangtooth&lt;/div&gt;&lt;div&gt;Power Board&lt;/div&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="&lt;div&gt;Fangtooth&lt;/div&gt;&lt;div&gt;Power Board&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1455" y="650" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-113" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-102" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-108">
@@ -104,7 +104,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-143" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-108" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" value="&lt;span&gt;12V Bus Bar&lt;/span&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" value="&lt;b&gt;&lt;span&gt;12V Bus Bar&lt;/span&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="460" x="1165" y="830" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-158" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-111" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#3333FF;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-154">
@@ -174,7 +174,7 @@
         <mxCell id="0vSBfI8_46AL9H7hPHAw-38" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;dashed=1;strokeColor=#3333FF;" target="0vSBfI8_46AL9H7hPHAw-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="LattePanda" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;LattePanda&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="660" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-145" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-116" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-126">
@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12v -&amp;gt; 7v Converter for Servos" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="12v -&amp;gt; 7v Converter for Servos" vertex="1">
           <mxGeometry height="60" width="120" x="1155" y="550" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-183" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-180" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-111">
@@ -328,7 +328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Power Strip" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Power Strip" vertex="1">
           <mxGeometry height="60" width="120" x="1454.35" y="160" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-226" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-222" value="">
@@ -371,7 +371,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="&lt;div&gt;Laptop Surface Station&lt;/div&gt;&lt;div&gt;(Toughbook)&lt;/div&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="&lt;div&gt;Laptop Surface Station&lt;/div&gt;&lt;div&gt;(Toughbook)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1145" y="250" as="geometry" />
         </mxCell>
         <mxCell id="0vSBfI8_46AL9H7hPHAw-10" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-221" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;curved=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="0vSBfI8_46AL9H7hPHAw-7">
@@ -476,7 +476,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0vSBfI8_46AL9H7hPHAw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="Fathom-X Tether Interface" vertex="1">
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Fathom-X Tether Interface" vertex="1">
           <mxGeometry height="60" width="120" x="975" y="250" as="geometry" />
         </mxCell>
         <mxCell id="0vSBfI8_46AL9H7hPHAw-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 102, 204);&quot;&gt;IN WATER&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
