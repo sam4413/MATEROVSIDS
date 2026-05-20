@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="567" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" value="120 V AC Power Source" vertex="1">
-          <mxGeometry height="60" width="120" x="1454.35" y="170" as="geometry" />
+          <mxGeometry height="60" width="120" x="1290" y="160" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-71" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1454.35" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="1454.35" y="240" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-81" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-101" value="">
           <mxGeometry relative="1" as="geometry">
@@ -56,11 +56,11 @@
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-99" connectable="0" parent="59XTsty1G1Yx93DkZX_j-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TETHER (POWER)" vertex="1">
           <mxGeometry relative="1" x="-0.062" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-107" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-70" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;direction=south;" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 53, 53);&quot;&gt;30A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 53, 53);&quot;&gt;Fuse&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="40" x="1494.35" y="410" as="geometry" />
+          <mxGeometry height="60" width="40" x="1494.35" y="320" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Condition: Full Down Thrust, Full Forward Thrust&lt;/div&gt;&lt;div&gt;Full Load Amps (FLA) = 27.4A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuse size selected based on table and FLA&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse = 30A&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="410" x="894.9999999999999" y="60" as="geometry" />
@@ -304,21 +304,32 @@
           <mxGeometry height="60" width="120" x="1335" y="510" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-218" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-208" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-219" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-208" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-214">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="250" />
+              <mxPoint x="1520" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-224" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-208" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-221">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1359.35" y="280" />
-              <mxPoint x="1359.35" y="425" />
+              <mxPoint x="1500" y="230" />
+              <mxPoint x="1359" y="230" />
+              <mxPoint x="1359" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37D4bjrBw4_Emu08I7YZ-1" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=0;" target="59XTsty1G1Yx93DkZX_j-214">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="230" />
+              <mxPoint x="1205" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Power Strip" vertex="1">
-          <mxGeometry height="60" width="120" x="1454.35" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="1454.35" y="160" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-226" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-222" value="">
           <mxGeometry relative="1" as="geometry">
