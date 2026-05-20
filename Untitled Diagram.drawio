@@ -460,13 +460,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0vSBfI8_46AL9H7hPHAw-40" connectable="0" parent="0vSBfI8_46AL9H7hPHAw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="0vSBfI8_46AL9H7hPHAw-40" connectable="0" parent="0vSBfI8_46AL9H7hPHAw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TETHER (DATA)" vertex="1">
           <mxGeometry relative="1" x="-0.3495" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0vSBfI8_46AL9H7hPHAw-41" connectable="0" parent="0vSBfI8_46AL9H7hPHAw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TETHER (DATA)" vertex="1">
-          <mxGeometry relative="1" x="0.2973" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
