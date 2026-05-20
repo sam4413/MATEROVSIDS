@@ -46,7 +46,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-71" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="&lt;div&gt;1.5 KW 48V DC Power Supply&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1454.35" y="240" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-81" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-70" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-101" value="">
@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="12v -&amp;gt; 7v Converter for Servos" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="12v -&amp;gt; 7v Converter for Servos" vertex="1">
           <mxGeometry height="60" width="120" x="1155" y="550" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-183" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-180" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-111">
@@ -328,7 +328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Power Strip" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="Power Strip" vertex="1">
           <mxGeometry height="60" width="120" x="1454.35" y="160" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-226" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-214" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="59XTsty1G1Yx93DkZX_j-222" value="">
