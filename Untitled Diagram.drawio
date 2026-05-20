@@ -555,7 +555,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-106" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-101" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="59XTsty1G1Yx93DkZX_j-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fangtooth" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="Fangtooth" vertex="1">
           <mxGeometry height="60" width="120" x="1480" y="600" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-113" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-102" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="59XTsty1G1Yx93DkZX_j-108">
@@ -576,7 +576,7 @@
         <mxCell id="59XTsty1G1Yx93DkZX_j-107" edge="1" parent="1" source="59XTsty1G1Yx93DkZX_j-101" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="59XTsty1G1Yx93DkZX_j-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12v Bus bar" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="12v Bus bar" vertex="1">
           <mxGeometry height="60" width="430" x="1090" y="830" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12v -&amp;gt; 7v Converter for Servos" vertex="1">
