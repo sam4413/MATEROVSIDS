@@ -59,7 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="59XTsty1G1Yx93DkZX_j-70" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;direction=south;" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 53, 53);&quot;&gt;30A&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="59XTsty1G1Yx93DkZX_j-70" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;direction=south;" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 53, 53);&quot;&gt;30A&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 53, 53);&quot;&gt;Fuse&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="40" x="1494.35" y="410" as="geometry" />
         </mxCell>
         <mxCell id="59XTsty1G1Yx93DkZX_j-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Condition: Full Down Thrust, Full Forward Thrust&lt;/div&gt;&lt;div&gt;Full Load Amps (FLA) = 27.4A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuse size selected based on table and FLA&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse = 30A&lt;/b&gt;&lt;/div&gt;" vertex="1">
